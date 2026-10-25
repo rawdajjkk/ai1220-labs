@@ -1,0 +1,13 @@
+Codex version: NOT RUN — Codex CLI is unavailable in the preparation environment.
+Tester reads AGENTS.md and REQUIREMENTS.md: NOT RUN
+Tester writes tests/check.txt: NOT RUN
+Tester cannot read fees.py or README.md: NOT RUN
+Tester cannot change fees.py: NOT RUN
+Tester cannot reach example.com: NOT RUN
+Reviewer reads AGENTS.md and fees.py: NOT RUN
+Reviewer cannot read tests/check.txt: NOT RUN
+Reviewer cannot change fees.py: NOT RUN
+
+These are placeholders, not submission evidence. Run the sheet's checks with the instructor-supported Codex build and replace each with observed PASS or FAIL.
+
+Codex version: codex-cli 0.164.0
